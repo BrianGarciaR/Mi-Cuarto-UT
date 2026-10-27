@@ -1,0 +1,3 @@
+https://mi-cuarto-ut-brian-gr.surge.sh/
+
+La interfaz está publicada en Surge. La API utiliza un túnel temporal a este equipo; necesita servidor y equipo encendidos. Consulta LEEME.md.

@@ -1,0 +1,13 @@
+data/
+datos-pruebas*/
+node_modules/
+.env*
+*.log
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+*.db-wal
+*.db-shm
+backups/
+.DS_Store
+Thumbs.db
